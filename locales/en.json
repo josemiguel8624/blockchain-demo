@@ -1,3 +1,15 @@
 {
-  "Hash": "Hash"
+	"Hash": "Hash",
+	"Blockchain Demo": "Blockchain Demo",
+	"Block": "Block",
+	"Blockchain": "Blockchain",
+	"Distributed": "Distributed",
+	"Tokens": "Tokens",
+	"Coinbase": "Coinbase",
+	"Distributed Blockchain": "Distributed Blockchain",
+	"Peer": "Peer",
+	"Nonce": "Nonce",
+	"Data": "Data",
+	"Prev": "Prev",
+	"Mine": "Mine"
 }
